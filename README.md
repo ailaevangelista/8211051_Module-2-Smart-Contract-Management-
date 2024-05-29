@@ -29,7 +29,7 @@ This project is licensed under the MIT License.
 ###### Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
-#######Contact
+####### Contact
 For any questions or support, please reach out to the project maintainer at your 8211051@ntc.edu.ph.
 
 ######## Acknowledgements
