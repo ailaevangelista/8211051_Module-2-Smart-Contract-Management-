@@ -1,12 +1,9 @@
 # Module 2 Smart Contract Management
 Welcome to My Bank Account! This decentralized application allows users to interact with an Ethereum smart contract to deposit and withdraw funds.
 
-## Features
+## Overview
 
-**Connect MetaMask Wallet:** Users can connect their MetaMask wallet to interact with the DApp.
-**Check Balance:** Users can view their current balance.
-**Deposit Funds:** Users can deposit funds into the smart contract.
-**Withdraw Funds:** Users can withdraw funds from the smart contract.
+This application allows users to interact with a decentralized bank smart contract deployed on the Ethereum blockchain. Users can connect their MetaMask wallet, deposit and withdraw funds, burn tokens, and even request loans based on their current balance.
 
 ### Prerequisites
 
@@ -16,12 +13,13 @@ Before running this project, ensure you have the following installed:
 2. MetaMask extension in your browser
 3. An Ethereum test network setup
 
-#### Using the DApp
+#### Features
 
-1. Connect MetaMask: Click on the "Connect your Metamask wallet" button to connect your wallet.
-2. Deposit Funds: Enter the amount you want to deposit and click the "Deposit" button.
-3. Withdraw Funds: Enter the amount you want to withdraw and click the "Withdraw" button.
-4. Check Balance: Your current balance is displayed under "Your Balance".
+- **MetaMask Integration:** Connect your MetaMask wallet to interact with the application.
+- **Deposit:** Deposit ETH into your bank account.
+- **Withdraw:** Withdraw ETH from your bank account.
+- **Burn Tokens:** Burn tokens from your bank account.
+- **Loan:** Request a loan of 1% of your current balance.
 
 ##### License
 This project is licensed under the MIT License.
